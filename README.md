@@ -34,6 +34,18 @@ In such directory you just `quilt push -a`
 
 See `man quilt` looooooower down
 
+## Patch format
+
+Seems to be very forgiving with the format
+
+I haven't encountered something I cannot put into the header as long as the actual patch starts with
+```
+--- a/filepath
++++ b/filepath
+@@ <position>, <position> @@
+```
+and continues as classic git diff
+
 ## See also
 
 - https://wiki.debian.org/UsingQuilt
