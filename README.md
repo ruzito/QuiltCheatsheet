@@ -32,3 +32,8 @@ In such directory you just `quilt push -a`
 
 ## Configuration
 
+See `man quilt` looooooower down
+
+## See also
+
+- https://wiki.debian.org/UsingQuilt
