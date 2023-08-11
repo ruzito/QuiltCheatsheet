@@ -38,7 +38,7 @@ See `man quilt` looooooower down
 
 Seems to be very forgiving with the format
 
-I haven't encountered something I cannot put into the header as long as the actual patch starts with
+I haven't encountered something I cannot put into the header yet as long as the actual patch starts with
 ```
 --- a/filepath
 +++ b/filepath
