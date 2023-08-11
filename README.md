@@ -1,4 +1,4 @@
-# QuiltCheatsheet
+# Quilt Cheatsheet
 This is my cheatsheet for quilt comand (patch manager)
 
 ## Creating patches
