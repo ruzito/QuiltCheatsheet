@@ -86,3 +86,4 @@ Fixes DEB_BUILD_OPTIONS=nodoc fail on illformed debian/rules
 ## See also
 
 - https://wiki.debian.org/UsingQuilt
+- `man quilt`
