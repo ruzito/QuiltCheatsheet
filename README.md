@@ -28,5 +28,7 @@ these filenames can be changed using env variables or options.
 
 When you get sent / download some piece of work that includes patches, there has to be some `patches` directory shipped with patches and a `series` file (may be named differently but probably shouldn't)
 
+In such directory you just `quilt push -a`
+
 ## Configuration
 
