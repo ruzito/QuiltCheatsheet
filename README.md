@@ -11,7 +11,7 @@ Interface is bit simillar to `git`
 - edit the file
 - `quilt refresh` (this edits the patch on top to include the changes) (like `git commit --amend`)
 - `quilt header <some options, which determine the header format>` (opens `$EDITOR` to edit the _"commit message"_ and metadata) (debian recommends `-e --dep3` options)
-- `quilt pop` (unapply most recent patch)
+- `quilt pop` (unapply most recent patch) (like `git checkout HEAD~1`)
 - `quilt pop -a` (unapply all patches aka restore original files)
 
 ## Directory structure
